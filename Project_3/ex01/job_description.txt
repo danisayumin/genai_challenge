@@ -1,0 +1,56 @@
+**Desenvolvedor Back End (Pleno)**
+Local: São Paulo, Brasil.
+Horário: Flexível
+
+
+Sobre a vaga
+A Softtek está em busca de Desenvolvedor Back End para apoiar um de nossos grandes clientes.
+
+
+Responsabilidades:
+
+Desenvolver e manter aplicações backend
+Desenvolver e otimizar lógica de negócios
+Integrar com bancos de dados e serviços externos
+Escrever código limpo e eficiente:
+Realizar testes e garantir qualidade
+Colaborar com a equipe de desenvolvimento
+Resolver problemas e depurar
+Manter-se atualizado com as tecnologias
+
+
+Requisitos técnicos:
+
+Experiência com Java
+Conhecimento sólido de frameworks Java: Experiência prática com frameworks como Spring (Spring Boot, Spring MVC) para desenvolvimento de aplicações e serviços.
+Experiência com bancos de dados relacionais e NoSQL: Habilidade em trabalhar com bancos de dados relacionais (como MySQL, PostgreSQL), incluindo a criação e otimização de consultas SQL.
+Familiaridade com arquiteturas de microservices: Experiência na construção e manutenção de aplicações baseadas em microservices e compreensão de conceitos de arquitetura distribuída.
+Conhecimento de APIs RESTful: Experiência em projetar e consumir APIs RESTful, incluindo práticas de segurança e autenticação.
+Experiência com ferramentas de build e versionamento: Conhecimento de ferramentas de build como Maven ou Gradle e sistemas de controle de versão como Git.
+Habilidades de testes e depuração: Experiência com frameworks de teste para Java, como JUnit e Mockito, e habilidades para depurar e resolver problemas de código.
+
+
+Horário de Trabalho: Seg a Sex das 09h às 18h
+
+Modalidade de Contratação: CLT + pacote de benefícios Softtek
+
+Alocação: Híbrido (3x na semana presencial em Interlagos, São Paulo)
+
+Tempo de Alocação: Indeterminado
+
+
+
+A Softtek valoriza a diversidade e inclusão em sua força de trabalho. A empresa tem uma equipe global com pessoas de diferentes origens e culturas, o que torna o ambiente de trabalho mais rico e interessante.
+Independentemente da sua ,etnia, idade, gênero, orientação sexual, deficiência, credo ou convicção política, o que importa são as suas competências e habilidades para fazer acontecer.
+
+
+Os Softtekians são seres humanos talentosos e auto-determinados que se consideram pessoas loucamente incríveis! Venha fazer parte desse time!!!
+
+
+Quer saber mais? Acesse:
+https://www.softtek.com/pt/transcend/diversidade-e-inclusao
+
+
+Sobre a Softtek:
+
+Fundada em 1982, a Softtek é uma fornecedora global de soluções de TI orientadas a processos com 30 escritórios na América do Norte, América Latina, Europa e Ásia. Com 15 centros de entrega global nos EUA, México, China, Brasil, Argentina, Costa Rica, Espanha, Hungria e Índia, a Softtek ajuda a melhorar e produzir resultados previsíveis para corporações de primeira linha em mais de 20 países. A Softtek é a criadora e líder da indústria nearshore.

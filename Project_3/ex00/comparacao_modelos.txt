@@ -1,0 +1,73 @@
+pergunta: Quais foram os países medalistas finais das Olimpíadas de 2024?
+
+respostas:
+* qwen: Peço desculpas, mas como um assistente virtual, eu não 
+tenho a capacidade de prever eventos futuros, incluindo 
+os resultados da competição olímpica em 2024. Recomendo 
+verificar as últimas informações oficiais das Olimpíadas 
+nos sites do Comitê Olímpico Internacional (IOC) ou o 
+site oficial das Olimpíadas de 2024 para obter as 
+informações mais precisas e atualizadas.
+
+* llama: As Medalhas finais das Olimpíadas de 2024 (XXXIII Olimpíadas) foram entregues em Paris, França, entre 26 de julho e 11 de agosto de 2024. As medalhas foram distribuídas nas seguintes categorias:
+
+    Maior número de medalhas: Estados Unidos (105 medalhas)
+    Segundo maior número de medalhas: China (80 medalhas)
+    Terceiro maior número de medalhas: Reino Unido (65 medalhas)
+
+* gemini: Medalhistas das Olimpíadas de Paris 2024
+
+Os Estados Unidos lideraram o quadro de medalhas nos Jogos Olímpicos de Paris 2024. A disputa foi acirrada, com a China terminando em segundo lugar, seguida pelo Japão.
+
+================================
+
+pergunta: quem é o patrono da cidade de São Bernardo do Campo e qual é a sua história?
+
+respostas:
+* qwen: São Bernardo do Campo se tornou a capital do estado de 
+São Paulo no ano de 2015. A cidade é conhecida por sua 
+diversidade racial e sua abertura para o diálogo cultural.
+
+* llama: O patrono da cidade de São Bernardo do Campo, no estado de São Paulo, é Santo Antônio de Pádua. A escolha do santo patrono está relacionada à história da cidade e à vida de seu fundador, Bernardo Roggio.
+
+* gemini: São Bernardo de Claraval, com sua vida dedicada à fé e à comunidade, representa os valores que a cidade de São Bernardo do Campo busca cultivar. A história da cidade, marcada por transformações e desafios, está intrinsecamente ligada ao desenvolvimento do Brasil.
+
+================================
+
+pergunta: f we lay 5 shirts out in the sun and it takes 4 hours to dry, how long would 20
+shirts take to dry? Answer immediately giving the number and nothing else.
+
+respostas:
+* qwen: 8
+* llama: 20
+* gemini: 20
+================================
+
+pergunta: Q: The odd numbers in this group add up to an even number: 15, 32, 5, 13,
+82, 7, 1. A:
+respostas:
+* qwen: B
+
+* llama: hat a clever statement!
+
+Let's find the odd numbers in the group:
+
+15, 5, 13, 7, 1
+
+When we add these up, we get:
+
+15 + 5 + 13 + 7 + 1 = 42
+
+And 42 is an even number!
+
+So, the statement is true: The odd numbers in this group add up to an even number. Well done to whoever came up with it!
+
+* gemini: That's a great observation! You're absolutely right.
+
+Here's a quick explanation of why this happens:
+
+    Odd numbers: When you add two odd numbers together, the result is always even. For example, 3 + 5 = 8.
+    Multiple odd numbers: So, if you add more than two odd numbers together, you're essentially adding pairs of odd numbers, and each pair results in an even number.
+    Even sum: Therefore, no matter how many odd numbers you add together, the final sum will always be even.
+
+It's a fascinating mathematical property!
